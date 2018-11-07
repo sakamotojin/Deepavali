@@ -1,8 +1,9 @@
-#Wish To Multiple Freinds Using Python
- 
+#Send Mesages To Multiple Friends Using Python
+
+Good For Ocassions Like Diwali , New Year etc 
 
 
-Send Deepavali Messages to multi friends at once using this python program
+Send Deepavali Messages to multiple friends at once using this python program
 
 Install fbchat lib in linux by using 
 
