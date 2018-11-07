@@ -1,12 +1,12 @@
-# Deepavali
-Deepavali Wish 
+#Wish To Multiple Freinds Using Python
+ 
 
 
 Send Deepavali Messages to multi friends at once using this python program
 
-Install fbchat lib in linux
+Install fbchat lib in linux by using 
 
-pip install fbchat
+pip install fbchat (python3)
 
 
 
